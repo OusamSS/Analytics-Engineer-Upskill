@@ -1,5 +1,8 @@
 # Analytics-Engineer-Upskill
 
+Ressource 0 : Python Refresher 
+https://github.com/lukebarousse/Python_Data_Analytics_Course.git
+
 Ressource 1 : The Data Engineer ZoomCamp
 https://github.com/DataTalksClub/data-engineering-zoomcamp.git
 
